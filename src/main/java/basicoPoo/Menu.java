@@ -93,7 +93,7 @@ public class Menu {
 
                         // se o vetor na posição I do CLIENTE pegar o ID e for = ao numero que digitamos faremos
                         if (CLIENTES[i].getIdCliente() == idProcurado) {
-                            //faremos o metodo excluir os dados do Juiz cadastrado na posição I
+                            //faremos o metodo excluir os dados do CLIENTE cadastrado na posição I
 
                             CLIENTES[i].excluirCliente();
 
