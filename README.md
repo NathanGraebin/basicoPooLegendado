@@ -16,3 +16,5 @@ Esse codigo pode ser usado com EXTENDS, mudando POUQUÍSSIMAS COISAS.
 
 
 Esse codigo reflete a base que é preciso para fazer o trabalho solicitado pelo professor Carlos em Poo.
+
+CRIAÇÃO DO MENU CHAMANDO OS METODOS DA CLASSE  -  CRIAÇÃO DA CLASSE E METODOS
