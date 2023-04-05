@@ -25,12 +25,24 @@ public class Cliente {
         // passaremos nosso scanner dentro dele, pois o metodo setNome precisa receber uma String, setNome(nome), então passaremos nosso Scanner para podermos
         //definir o nome do cliente.  
         // é como seu eu fizesse > setNome(Nathan Felipe)
+        
         setNome(Ler.next());
+        // pode ser feito da seguinte maneira tambem
+        
+        // nome = Ler.next();
+        //setNome(nome);
+        
+        
         
         // da mesma forma faremos para o id, passaremos nosso Scanner dentro do setIdCliente afim de atribuir um valor para a variavel idCliente
         // é como seu eu fizesse > setNome(Nathan Felipe)
         System.out.println("INFORME O ID ");
         setIdCliente(Ler.nextInt());
+        
+        // pode ser feito da seguinte maneira tambem
+        
+        // idCliente = Ler.next();
+        //setNome(idCliente);
         
         
         System.out.println("CADASTRO REALIZADO");
