@@ -20,7 +20,7 @@ public class Menu {
 
         //Criação de um vetor para armazenar TODOS OS DADOS de CADA Cliente
         //EXEMPLOS DE CLASSES : Cliete,Funcionario,venda,relatorio
-        //Na classe Cliete vamos criar um vetor chamado CLIENTES podendo cadastrar ate 3 Clientes
+        //Na classe Cliete vamos criar um vetor chamado CLIENTES podendo cadastrar ate 3 Clientes, mas podendo ser aumentado para o numero que preferir
         Cliente CLIENTES[] = new Cliente[3];
         // EXEMPLO > CLIENTES[i] nessa posição vai conter todos os dados do Cliente
         // é como se fosse CLIENTE0 CLIENTE1 CLIENTE2...
