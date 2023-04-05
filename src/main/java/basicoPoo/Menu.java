@@ -30,7 +30,7 @@ public class Menu {
         //para os dados de cadastros
         for (int i = 0; i < CLIENTES.length; i++) {
 
-            // o JUIZ na posição I vai receber os seguintes dados ( aqui são valores nulos, que serão preechidos depois)
+            // o CLIENTE na posição I vai receber os seguintes dados ( aqui são valores nulos, que serão preechidos depois)
             CLIENTES[i] = new Cliente("", 0);
         }
 
