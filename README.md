@@ -12,3 +12,6 @@ Qualquer dúvida, vocês podem estar me chamando no meu privado.
 05-04 > Envio do codigo base
 
 Atualização sobre EXTENDS será feita ate dia 07-04, assim que eu aperfeiçoar o entendimento vou atualizar o código.
+
+
+Esse codigo reflete a base que é preciso para fazer o trabalho solicitado pelo professor Carlos em Poo.
