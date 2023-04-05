@@ -35,15 +35,20 @@ public class Cliente {
         
         System.out.println("CADASTRO REALIZADO");
         
-        //apos isso o cadastro esta COMPLETO, finalizando e voltando para o menu
+        //apos isso o cadastro esta COMPLETO, finalizara o vetor e voltara para o menu
 
     }
-
+        // aqui iniciaremos o metodo consultarCliente, no MENU ele pede para a gente colocar um idCliente para ser pesquisado, caso ele encontre o id do cliente
+        // ele vai executar essa função que é basicamente TRAZER as informações do cliente com o metodo getNome e getIdCliente
     public void consultarCliente() {
+        
+        // usaremos um println para apresentar o esta dentro do getNome e getIdCliente
         System.out.println(getNome());
         System.out.println(getIdCliente());
 
         System.out.println("A CONSULTA TERMINOU");
+        
+         //apos apresentar os dados do cliente, finalizara o vetor e voltara para o menu
     }
 
     public void excluirCliente() {
@@ -51,16 +56,18 @@ public class Cliente {
         //PARA EXCLUIR UM CADASTRO, daremos aos dados valores NULOS sendo "" para String
         // ou ZERO > 0 < para Int
         
-        
+        // novamente iremos usar o metodo setNome, para atribuir valores nulos as variaveis,
+        // fazendo que não seje mais possivel encontrar o nome e nem o IdCliente
         setNome("");
         setIdCliente(0);
         System.out.println("CADASTRO EXCLUIDO");
     }
 
+    
     public String getNome() {
         return nome;
     }
-
+    
     public void setNome(String nome) {
         this.nome = nome;
     }
