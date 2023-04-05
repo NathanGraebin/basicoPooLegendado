@@ -15,6 +15,8 @@ Atualização sobre EXTENDS será feita ate dia 08-04, assim que eu aperfeiçoar
 Esse codigo pode ser usado com EXTENDS, implementando POUQUÍSSIMAS COISAS.
 Esse codigo tambem faz ligação direta com LIST e ARRAYLIST, 
 
+Essas atualizações virão em forma de outro Repositorios que vou compartilhar > basicoPooExtend e basicoPooListArrayList <
+
 
 Esse codigo reflete a base que é preciso para fazer o trabalho solicitado pelo professor Carlos em Poo.
 
