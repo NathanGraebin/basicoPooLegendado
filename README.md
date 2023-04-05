@@ -1,4 +1,4 @@
-# basicoPooLegendado
+# BASICO Programação Orientada a Objetos
 
 Aqui esta um codigo aberto basico sobre as aulas de POO, nele esta comentado o que cada linha do codigo faz !
 
