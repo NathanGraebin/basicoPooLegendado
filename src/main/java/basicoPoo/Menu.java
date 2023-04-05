@@ -18,13 +18,13 @@ public class Menu {
         // criação do Scanner de Leitura
         Scanner KEYBOARD = new Scanner(System.in);
 
-        //Criação de um vetor para armazenar TODOS OS DADOS de CADA juiz
+        //Criação de um vetor para armazenar TODOS OS DADOS de CADA Cliente
         //EXEMPLOS DE CLASSES : Cliete,Funcionario,venda,relatorio
-        //Na classe Cliete vamos criar um vetor chamado CLIENTES podendo cadastrar ate 3 juizes
-        
-        // EXEMPLO > CLIENTES[i] nessa posição vai conter todos os dados do juiz
-        // é como se fosse CLIENTE0 CLIENTE1 CLIENTE2...
+        //Na classe Cliete vamos criar um vetor chamado CLIENTES podendo cadastrar ate 3 Clientes
         Cliente CLIENTES[] = new Cliente[3];
+        // EXEMPLO > CLIENTES[i] nessa posição vai conter todos os dados do Cliente
+        // é como se fosse CLIENTE0 CLIENTE1 CLIENTE2...
+        
 
         //Faremos um loop, cada iniciar cada cadastro, colocando valores NULOS, para depois alterar
         //para os dados de cadastros
