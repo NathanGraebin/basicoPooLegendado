@@ -21,3 +21,5 @@ Essas atualizações virão em forma de outro Repositorios que vou compartilhar 
 Esse codigo reflete a base que é preciso para fazer o trabalho solicitado pelo professor Carlos em Poo.
 
 CRIAÇÃO DO MENU CHAMANDO OS METODOS DA CLASSE  -  CRIAÇÃO DA CLASSE E METODOS
+
+![](https://komarev.com/ghpvc/?NathanGraebin&style=flat-square)
